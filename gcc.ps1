@@ -1,0 +1,1 @@
+g++ MineCmdSweeper.cpp ico.res -o MineCmdSweeper.exe
