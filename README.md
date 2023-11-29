@@ -1,5 +1,6 @@
 # MineCmdSweeper
 :heart_eyes: A Mine Sweeper in cmd
+![image](https://github.com/0dayDog/MineCmdSweeper/blob/main/show.png)  
 ### How to compile a cpp file and add icons
 :smile: Find a ico file you like. Now we have the mine.ico.  
 :smirk: You need to creat a .rc file.  
